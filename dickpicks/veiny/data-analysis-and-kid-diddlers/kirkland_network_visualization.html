@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kirkland & Ellis Network Topology - Cycle 16C</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            padding: 20px;
+            border-bottom: 2px solid #c0392b;
+        }
+        .header h1 {
+            font-size: 24px;
+            color: #e74c3c;
+            margin-bottom: 8px;
+        }
+        .header p {
+            color: #888;
+            font-size: 14px;
+        }
+        .container {
+            display: flex;
+            height: calc(100vh - 120px);
+        }
+        .sidebar {
+            width: 320px;
+            background: #111;
+            padding: 20px;
+            overflow-y: auto;
+            border-right: 1px solid #333;
+        }
+        .sidebar h2 {
+            color: #e74c3c;
+            font-size: 16px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+        }
+        .stat-box {
+            background: #1a1a1a;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            border-left: 3px solid #e74c3c;
+        }
+        .stat-box label {
+            display: block;
+            color: #888;
+            font-size: 11px;
+            text-transform: uppercase;
+        }
+        .stat-box .value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #fff;
+        }
+        .legend {
+            margin-top: 20px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 12px;
+        }
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        .graph-container {
+            flex: 1;
+            position: relative;
+        }
+        svg {
+            width: 100%;
+            height: 100%;
+            background: #0a0a0a;
+        }
+        .node circle {
+            stroke: #333;
+            stroke-width: 2px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .node circle:hover {
+            stroke: #fff;
+            stroke-width: 3px;
+        }
+        .node text {
+            font-size: 10px;
+            fill: #ccc;
+            pointer-events: none;
+        }
+        .link {
+            stroke-opacity: 0.4;
+        }
+        .link:hover {
+            stroke-opacity: 1;
+        }
+        .tooltip {
+            position: absolute;
+            background: rgba(0,0,0,0.95);
+            border: 1px solid #e74c3c;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 12px;
+            max-width: 300px;
+            z-index: 1000;
+            display: none;
+        }
+        .tooltip h3 {
+            color: #e74c3c;
+            margin-bottom: 8px;
+        }
+        .tooltip .attr {
+            margin: 4px 0;
+            color: #aaa;
+        }
+        .tooltip .attr strong {
+            color: #fff;
+        }
+        .key-finding {
+            background: #1a1a1a;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            border-left: 3px solid #f39c12;
+            font-size: 11px;
+        }
+        .key-finding strong {
+            color: #f39c12;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔴 KIRKLAND & ELLIS NETWORK TOPOLOGY</h1>
+        <p>Cycle 16C Analysis | Legal Immunity Architecture | Based on DOJ Epstein Files Release (Jan 30, 2026)</p>
+    </div>
+    
+    <div class="container">
+        <div class="sidebar">
+            <h2>📊 NETWORK STATISTICS</h2>
+            <div class="stat-box">
+                <label>Total Nodes</label>
+                <div class="value">66</div>
+            </div>
+            <div class="stat-box">
+                <label>Total Edges</label>
+                <div class="value">100</div>
+            </div>
+            <div class="stat-box">
+                <label>Kirkland Centrality</label>
+                <div class="value">39%</div>
+            </div>
+            <div class="stat-box">
+                <label>Govt Positions</label>
+                <div class="value">21+</div>
+            </div>
+            
+            <h2>🎯 KEY FINDINGS</h2>
+            <div class="key-finding">
+                <strong>EPSTEIN NPA:</strong> Kirkland represented Epstein, Kirkland alumni Acosta approved NPA, Kirkland alumni Barr oversaw death
+            </div>
+            <div class="key-finding">
+                <strong>BOEING DPA:</strong> Kirkland defended Boeing, prosecutor Cox gave sweetheart deal, Cox joined Kirkland 5 months later
+            </div>
+            <div class="key-finding">
+                <strong>UNCLE JEFFREY:</strong> Ruemmler (Goldman CLO, Obama WH Counsel) received gifts, called Epstein "Uncle Jeffrey"
+            </div>
+            
+            <h2>🔑 LEGEND</h2>
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #e74c3c;"></div>
+                    <span>Central Hub (Kirkland)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #3498db;"></div>
+                    <span>DOJ / Government</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #9b59b6;"></div>
+                    <span>Epstein Connected</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #27ae60;"></div>
+                    <span>Financial Institution</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #f39c12;"></div>
+                    <span>Boeing Case</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #1abc9c;"></div>
+                    <span>Other Law Firms</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="graph-container" id="graph">
+            <div class="tooltip" id="tooltip"></div>
+        </div>
+    </div>
+
+    <script>
+        // Network data - key nodes and edges
+        const nodes = [
+            // Central
+            { id: "kirkland", label: "Kirkland & Ellis", group: "central", size: 40, 
+              info: "Revenue: $8.8B | #1 Global Law Firm | 50+ govt alumni" },
+            
+            // DOJ/Government
+            { id: "barr", label: "William Barr", group: "doj", size: 25,
+              info: "AG (2x) | Father hired Epstein | AG during death" },
+            { id: "acosta", label: "Alexander Acosta", group: "doj", size: 22,
+              info: "US Attorney SDFL | Approved Epstein NPA | 'Belonged to intelligence'" },
+            { id: "filip", label: "Mark Filip", group: "boeing", size: 22,
+              info: "Deputy AG | Boeing defense | Welcomed Cox to firm" },
+            { id: "cox", label: "Erin Nealy Cox", group: "boeing", size: 20,
+              info: "US Attorney NDTX | Boeing DPA | Joined Kirkland 5 months later" },
+            { id: "khuzami", label: "Robert Khuzami", group: "doj", size: 20,
+              info: "Deutsche Bank GC | SEC Director | Kirkland Partner $11M | Deputy SDNY" },
+            { id: "kavanaugh", label: "Brett Kavanaugh", group: "doj", size: 22,
+              info: "SCOTUS Justice | Kirkland Partner" },
+            { id: "rosen", label: "Jeffrey Rosen", group: "doj", size: 18,
+              info: "Deputy AG | Acting AG" },
+            { id: "cipollone", label: "Pat Cipollone", group: "doj", size: 18,
+              info: "WH Counsel (Trump)" },
+            { id: "eggleston", label: "Neil Eggleston", group: "doj", size: 18,
+              info: "WH Counsel (Obama) | Bipartisan" },
+            
+            // Epstein
+            { id: "epstein", label: "Jeffrey Epstein", group: "epstein", size: 30,
+              info: "Deceased 2019 | 40+ victims | 2% prosecution rate" },
+            { id: "lefkowitz", label: "Jay Lefkowitz", group: "epstein", size: 18,
+              info: "Kirkland Partner | Lead Epstein defense | NPA negotiations" },
+            { id: "starr", label: "Ken Starr", group: "epstein", size: 18,
+              info: "Solicitor General | Whitewater | Epstein defense team" },
+            { id: "dershowitz", label: "Alan Dershowitz", group: "epstein", size: 16,
+              info: "Harvard Law | Epstein defense team" },
+            
+            // New Doc Revelations
+            { id: "ruemmler", label: "Kathryn Ruemmler", group: "epstein", size: 20,
+              info: "WH Counsel Obama | Goldman CLO | 'Uncle Jeffrey' | Hermes gifts" },
+            { id: "karp", label: "Brad Karp", group: "epstein", size: 18,
+              info: "Paul Weiss Chairman | Epstein dinners | 'Evening I'll never forget'" },
+            { id: "lutnick", label: "Howard Lutnick", group: "epstein", size: 16,
+              info: "Commerce Secretary | Planned island visit" },
+            
+            // Financial
+            { id: "jpmorgan", label: "JPMorgan", group: "financial", size: 22,
+              info: "Epstein bank 2000-2013 | $365M settlement" },
+            { id: "deutsche", label: "Deutsche Bank", group: "financial", size: 22,
+              info: "Epstein bank 2013-2019 | $75M settlement | Khuzami was GC" },
+            { id: "goldman", label: "Goldman Sachs", group: "financial", size: 22,
+              info: "Ruemmler is CLO | Kirkland representation" },
+            
+            // Boeing
+            { id: "boeing", label: "Boeing", group: "boeing", size: 25,
+              info: "346 deaths | Sweetheart DPA | Zero executives charged" },
+            
+            // Other Law Firms
+            { id: "paulweiss", label: "Paul Weiss", group: "lawfirm", size: 16,
+              info: "Chairman Karp had Epstein relationship" },
+            { id: "latham", label: "Latham & Watkins", group: "lawfirm", size: 14,
+              info: "Ruemmler was partner while advising Epstein" }
+        ];
+
+        const links = [
+            // Kirkland connections
+            { source: "kirkland", target: "barr", type: "partner" },
+            { source: "kirkland", target: "acosta", type: "partner" },
+            { source: "kirkland", target: "filip", type: "partner" },
+            { source: "kirkland", target: "cox", type: "partner" },
+            { source: "kirkland", target: "khuzami", type: "partner" },
+            { source: "kirkland", target: "kavanaugh", type: "partner" },
+            { source: "kirkland", target: "rosen", type: "partner" },
+            { source: "kirkland", target: "cipollone", type: "partner" },
+            { source: "kirkland", target: "eggleston", type: "partner" },
+            { source: "kirkland", target: "lefkowitz", type: "partner" },
+            { source: "kirkland", target: "starr", type: "partner" },
+            
+            // Epstein case
+            { source: "kirkland", target: "epstein", type: "representation" },
+            { source: "lefkowitz", target: "epstein", type: "defense" },
+            { source: "starr", target: "epstein", type: "defense" },
+            { source: "dershowitz", target: "epstein", type: "defense" },
+            { source: "acosta", target: "epstein", type: "npa_approved" },
+            { source: "barr", target: "epstein", type: "oversight" },
+            
+            // New document revelations
+            { source: "ruemmler", target: "epstein", type: "adviser" },
+            { source: "karp", target: "epstein", type: "social" },
+            { source: "lutnick", target: "epstein", type: "planned_visit" },
+            { source: "ruemmler", target: "goldman", type: "clo" },
+            { source: "karp", target: "paulweiss", type: "chairman" },
+            { source: "ruemmler", target: "latham", type: "partner" },
+            
+            // Financial
+            { source: "epstein", target: "jpmorgan", type: "banking" },
+            { source: "epstein", target: "deutsche", type: "banking" },
+            { source: "khuzami", target: "deutsche", type: "gc" },
+            { source: "kirkland", target: "goldman", type: "representation" },
+            { source: "kirkland", target: "jpmorgan", type: "representation" },
+            
+            // Boeing
+            { source: "kirkland", target: "boeing", type: "defense" },
+            { source: "filip", target: "boeing", type: "defense_lead" },
+            { source: "cox", target: "boeing", type: "dpa_signed" },
+            { source: "filip", target: "cox", type: "welcomed" }
+        ];
+
+        // Color scale
+        const colorScale = {
+            central: "#e74c3c",
+            doj: "#3498db",
+            epstein: "#9b59b6",
+            financial: "#27ae60",
+            boeing: "#f39c12",
+            lawfirm: "#1abc9c"
+        };
+
+        // Create SVG
+        const container = document.getElementById('graph');
+        const width = container.clientWidth;
+        const height = container.clientHeight;
+
+        const svg = d3.select('#graph')
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        // Create simulation
+        const simulation = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).id(d => d.id).distance(100))
+            .force('charge', d3.forceManyBody().strength(-400))
+            .force('center', d3.forceCenter(width / 2, height / 2))
+            .force('collision', d3.forceCollide().radius(d => d.size + 10));
+
+        // Create links
+        const link = svg.append('g')
+            .selectAll('line')
+            .data(links)
+            .join('line')
+            .attr('class', 'link')
+            .attr('stroke', '#444')
+            .attr('stroke-width', 1.5);
+
+        // Create nodes
+        const node = svg.append('g')
+            .selectAll('g')
+            .data(nodes)
+            .join('g')
+            .attr('class', 'node')
+            .call(d3.drag()
+                .on('start', dragstarted)
+                .on('drag', dragged)
+                .on('end', dragended));
+
+        node.append('circle')
+            .attr('r', d => d.size)
+            .attr('fill', d => colorScale[d.group]);
+
+        node.append('text')
+            .attr('dy', d => d.size + 12)
+            .attr('text-anchor', 'middle')
+            .text(d => d.label);
+
+        // Tooltip
+        const tooltip = document.getElementById('tooltip');
+
+        node.on('mouseover', function(event, d) {
+            tooltip.innerHTML = `
+                <h3>${d.label}</h3>
+                <div class="attr">${d.info}</div>
+            `;
+            tooltip.style.display = 'block';
+            tooltip.style.left = (event.pageX + 10) + 'px';
+            tooltip.style.top = (event.pageY + 10) + 'px';
+        });
+
+        node.on('mouseout', function() {
+            tooltip.style.display = 'none';
+        });
+
+        // Update positions
+        simulation.on('tick', () => {
+            link
+                .attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+
+            node.attr('transform', d => `translate(${d.x},${d.y})`);
+        });
+
+        // Drag functions
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+    </script>
+</body>
+</html>

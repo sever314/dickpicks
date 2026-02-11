@@ -1,0 +1,735 @@
+====================================================================================================
+EPSTEIN NETWORK OPERATING SYSTEM - COMPLETE EXECUTION REPORT
+All Nodes and Connections Enumerated Across All Layers
+====================================================================================================
+
+TOTAL NODES: 113
+TOTAL EDGES: 164
+
+================================================================================
+NODES BY LAYER
+================================================================================
+
+HARDWARE (14 nodes):
+  • Abner 'Longy' Zwillman
+    Role: New Jersey Operations
+    Connections: 1 | Immunity: 5/10
+  • Al Capone
+    Role: Chicago Distribution
+    Connections: 1 | Immunity: 5/10
+  • Arnold Rothstein
+    Role: NY Distribution / Bankroller
+    Connections: 2 | Immunity: 6/10
+  • Benjamin 'Bugsy' Siegel
+    Role: Bugs and Meyer Gang / Vegas
+    Connections: 1 | Immunity: 6/10
+  • Charles 'Lucky' Luciano
+    Role: Italian Operations Chief
+    Connections: 2 | Immunity: 7/10
+  • John Torrio
+    Role: Syndicate Organizer
+    Connections: 2 | Immunity: 5/10
+  • Max Fisher
+    Role: Purple Gang → GOP → Wexner Mentor
+    Connections: 4 | Immunity: 8/10
+  • Meyer Lansky
+    Role: National Crime Syndicate Architect
+    Connections: 7 | Immunity: 8/10
+  • Moe Dalitz
+    Role: Cleveland/Vegas Operations
+    Connections: 1 | Immunity: 6/10
+  • Murder Inc.
+    Role: Syndicate Enforcement Arm
+    Connections: 1 | Immunity: 5/10
+  • Purple Gang (Detroit)
+    Role: Detroit Distribution
+    Connections: 2 | Immunity: 5/10
+  • Samuel Bronfman
+    Role: Seagram's Founder / Bootleg King
+    Connections: 9 | Immunity: 9/10
+  • Seagram Company
+    Role: Liquor Empire
+    Connections: 3 | Immunity: 7/10
+  • Sol 'Red McGee' Steinhardt
+    Role: Lansky's Jewel Fence
+    Connections: 2 | Immunity: 4/10
+
+FIRMWARE (14 nodes):
+  • Allen Dulles
+    Role: OSS Chief / CIA Director
+    Connections: 2 | Immunity: 10/10
+  • Ari Ben-Menashe
+    Role: Israeli Military Intelligence
+    Connections: 1 | Immunity: 7/10
+  • Central Intelligence Agency (CIA)
+    Role: US Foreign Intelligence
+    Connections: 5 | Immunity: 10/10
+  • Charles Bronfman
+    Role: Seagram's / MEGA Co-Founder
+    Connections: 4 | Immunity: 8/10
+  • Columbia University
+    Role: Donald Barr Academic Base
+    Connections: 1 | Immunity: 5/10
+  • Dalton School
+    Role: Elite Manhattan Prep
+    Connections: 2 | Immunity: 5/10
+  • Donald Barr
+    Role: OSS Officer / Dalton Headmaster
+    Connections: 5 | Immunity: 8/10
+  • Edgar Bronfman Sr.
+    Role: Seagram's / WJC President
+    Connections: 3 | Immunity: 8/10
+  • Mossad
+    Role: Israeli Intelligence
+    Connections: 1 | Immunity: 10/10
+  • Office of Strategic Services (OSS)
+    Role: WWII Intelligence / CIA Precursor
+    Connections: 3 | Immunity: 10/10
+  • Robert Maxwell
+    Role: Media Mogul / Mossad Asset
+    Connections: 8 | Immunity: 9/10
+  • Shimon Peres
+    Role: Israeli PM / Maxwell Eulogizer
+    Connections: 2 | Immunity: 9/10
+  • William Barr
+    Role: CIA → DOJ → AG
+    Connections: 5 | Immunity: 10/10
+  • Yitzhak Shamir
+    Role: Israeli PM / Maxwell Funeral
+    Connections: 1 | Immunity: 9/10
+
+BOOTLOADER (15 nodes):
+  • Alan 'Ace' Greenberg
+    Role: Bear Stearns CEO / Epstein Patron
+    Connections: 3 | Immunity: 7/10
+  • Bear Stearns
+    Role: Wall Street Investment Bank
+    Connections: 4 | Immunity: 6/10
+  • Elisabeth Maxwell
+    Role: Robert Maxwell's Widow
+    Connections: 1 | Immunity: 5/10
+  • Elliot Wolk
+    Role: Bear Stearns / Maxwell Account
+    Connections: 1 | Immunity: 5/10
+  • Ghislaine Maxwell
+    Role: Epstein Partner / Operations
+    Connections: 10 | Immunity: 7/10
+  • Jeffrey Epstein
+    Role: Central Hub / Intelligence Asset
+    Connections: 52 | Immunity: 9/10
+  • Jimmy Cayne
+    Role: Bear Stearns CEO / Epstein Friend
+    Connections: 2 | Immunity: 6/10
+  • Laurence Tisch
+    Role: Loews / CBS / MEGA
+    Connections: 1 | Immunity: 7/10
+  • Leonard Abramson
+    Role: U.S. Healthcare / MEGA
+    Connections: 1 | Immunity: 7/10
+  • Leslie Wexner
+    Role: Victoria's Secret / Primary Funder
+    Connections: 6 | Immunity: 9/10
+  • Lynne Greenberg
+    Role: Ace's Daughter / Epstein GF
+    Connections: 2 | Immunity: 3/10
+  • MEGA Group
+    Role: Billionaire Coordination Network
+    Connections: 8 | Immunity: 9/10
+  • Michael Steinhardt
+    Role: Hedge Fund / MEGA / Birthright
+    Connections: 2 | Immunity: 8/10
+  • Ronald Lauder
+    Role: Estée Lauder / MEGA / WJC
+    Connections: 1 | Immunity: 8/10
+  • Wexner Foundation
+    Role: Philanthropic Vehicle
+    Connections: 2 | Immunity: 6/10
+
+KERNEL (16 nodes):
+  • 9 East 71st Street (NYC Mansion)
+    Role: Operations HQ / $77M Gift
+    Connections: 3 | Immunity: 5/10
+  • Adriana Ross
+    Role: Epstein Assistant
+    Connections: 1 | Immunity: 4/10
+  • Alan Dershowitz
+    Role: Defense Atty / Accused in Testimony
+    Connections: 3 | Immunity: 8/10
+  • Citibank
+    Role: Banking
+    Connections: 1 | Immunity: 7/10
+  • Deutsche Bank
+    Role: Banking / $75M+ Processed
+    Connections: 2 | Immunity: 8/10
+  • Gerald Lefcourt
+    Role: Defense Attorney
+    Connections: 1 | Immunity: 6/10
+  • JPMorgan Chase
+    Role: Banking / $365M Settlement
+    Connections: 3 | Immunity: 8/10
+  • Jay Lefkowitz
+    Role: Kirkland Partner / NPA Signatory
+    Connections: 2 | Immunity: 7/10
+  • Jean-Luc Brunel
+    Role: MC2 Modeling / Procurement
+    Connections: 2 | Immunity: 6/10
+  • Ken Starr
+    Role: Former Solicitor General / Defense
+    Connections: 1 | Immunity: 7/10
+  • Kirkland & Ellis
+    Role: Elite Law Firm / DOJ Pipeline
+    Connections: 4 | Immunity: 10/10
+  • Lesley Groff
+    Role: Epstein Executive Assistant
+    Connections: 1 | Immunity: 5/10
+  • Martin Weinberg
+    Role: Defense Attorney
+    Connections: 1 | Immunity: 6/10
+  • Nadia Marcinkova
+    Role: Co-Conspirator / Pilot
+    Connections: 1 | Immunity: 5/10
+  • Roy Black
+    Role: Defense Attorney
+    Connections: 1 | Immunity: 6/10
+  • Sarah Kellen
+    Role: Epstein Assistant / Co-Conspirator
+    Connections: 1 | Immunity: 5/10
+
+DRIVER (27 nodes):
+  • Apollo Global Management
+    Role: Private Equity
+    Connections: 2 | Immunity: 8/10
+  • Bill Clinton
+    Role: Former President / Flight Logs
+    Connections: 2 | Immunity: 9/10
+  • Carbyne
+    Role: Israeli 911 Tech / Barak+Epstein
+    Connections: 3 | Immunity: 7/10
+  • Donald Trump
+    Role: Business Associate / President
+    Connections: 2 | Immunity: 9/10
+  • Ehud Barak
+    Role: Israeli PM / Defense Min / Carbyne
+    Connections: 5 | Immunity: 9/10
+  • Eva Dubin
+    Role: Former Epstein GF / Glenn's Wife
+    Connections: 2 | Immunity: 5/10
+  • Founders Fund
+    Role: Thiel VC / Carbyne Investor
+    Connections: 2 | Immunity: 7/10
+  • George Church
+    Role: Harvard Geneticist
+    Connections: 1 | Immunity: 5/10
+  • Glenn Dubin
+    Role: Hedge Fund / Epstein Friend
+    Connections: 2 | Immunity: 7/10
+  • Great St. James Island
+    Role: Second Island Purchase
+    Connections: 1 | Immunity: 4/10
+  • Harvard University
+    Role: Academic Cover / $6.5M+
+    Connections: 2 | Immunity: 7/10
+  • Jes Staley
+    Role: JPMorgan / Barclays CEO
+    Connections: 3 | Immunity: 7/10
+  • Joi Ito
+    Role: MIT Media Lab Director
+    Connections: 2 | Immunity: 5/10
+  • Lawrence Summers
+    Role: Harvard Pres / Treasury Sec
+    Connections: 2 | Immunity: 8/10
+  • Leon Black
+    Role: Apollo / Paid Epstein $158M+
+    Connections: 3 | Immunity: 8/10
+  • Little St. James Island
+    Role: Virgin Islands / 'Pedophile Island'
+    Connections: 3 | Immunity: 5/10
+  • Lolita Express (Boeing 727)
+    Role: Primary Aircraft
+    Connections: 2 | Immunity: 5/10
+  • MIT Media Lab
+    Role: Academic Cover
+    Connections: 2 | Immunity: 6/10
+  • Marvin Minsky
+    Role: MIT AI Pioneer / Island Visitor
+    Connections: 2 | Immunity: 5/10
+  • Palantir Technologies
+    Role: CIA/NSA/FBI Surveillance
+    Connections: 3 | Immunity: 9/10
+  • Palm Beach Mansion
+    Role: Florida Recruitment Center
+    Connections: 2 | Immunity: 4/10
+  • Paris Apartment
+    Role: European Operations
+    Connections: 1 | Immunity: 4/10
+  • Peter Thiel
+    Role: Palantir / $40M from Epstein
+    Connections: 4 | Immunity: 8/10
+  • Prince Andrew
+    Role: British Royal / $12M Settlement
+    Connections: 5 | Immunity: 8/10
+  • Steven Pinker
+    Role: Harvard Psychologist
+    Connections: 1 | Immunity: 5/10
+  • Valar Ventures
+    Role: Thiel Fund / $40M Epstein
+    Connections: 3 | Immunity: 6/10
+  • Zorro Ranch (New Mexico)
+    Role: NM Operations
+    Connections: 1 | Immunity: 4/10
+
+OS (14 nodes):
+  • Alexander Acosta
+    Role: US Attorney / 'Belonged to Intel'
+    Connections: 2 | Immunity: 7/10
+  • Annie Farmer
+    Role: Victim / Trial Witness
+    Connections: 1 | Immunity: 5/10
+  • Courtney Wild
+    Role: CVRA Plaintiff
+    Connections: 2 | Immunity: 5/10
+  • Department of Justice (DOJ)
+    Role: Federal Prosecution
+    Connections: 6 | Immunity: 10/10
+  • Epstein Death (Aug 10, 2019)
+    Role: System Shutdown / Cameras Failed
+    Connections: 2 | Immunity: 9/10
+  • FBI Investigation (2006)
+    Role: 36+ Victims Identified
+    Connections: 2 | Immunity: 6/10
+  • Julie Brown
+    Role: Miami Herald Reporter
+    Connections: 1 | Immunity: 6/10
+  • Maria Farmer
+    Role: First Accuser (1996)
+    Connections: 3 | Immunity: 5/10
+  • Metropolitan Correctional Center
+    Role: Death Location
+    Connections: 2 | Immunity: 6/10
+  • Miami Herald Investigation
+    Role: Perversion of Justice Series
+    Connections: 2 | Immunity: 6/10
+  • Non-Prosecution Agreement (2008)
+    Role: Sweetheart Deal
+    Connections: 5 | Immunity: 8/10
+  • Palm Beach Police Investigation
+    Role: Initial Investigation
+    Connections: 1 | Immunity: 5/10
+  • Southern District of New York
+    Role: 2019 Prosecution
+    Connections: 3 | Immunity: 8/10
+  • Virginia Giuffre
+    Role: Key Victim / Witness
+    Connections: 5 | Immunity: 6/10
+
+APPLICATION (13 nodes):
+  • Antony Blinken
+    Role: WestExec / Secretary of State
+    Connections: 2 | Immunity: 8/10
+  • Avril Haines
+    Role: WestExec / DNI
+    Connections: 2 | Immunity: 9/10
+  • Deutsche Bank Settlement ($75M)
+    Role: Bank Settlement
+    Connections: 1 | Immunity: 6/10
+  • Ghislaine Maxwell Trial (2021)
+    Role: Conviction / 20 Years
+    Connections: 1 | Immunity: 7/10
+  • JPMorgan Settlement ($365M)
+    Role: Bank Settlement
+    Connections: 1 | Immunity: 7/10
+  • Jean-Luc Brunel Death
+    Role: Died in Custody (Paris)
+    Connections: 1 | Immunity: 7/10
+  • Jes Staley Resignation
+    Role: Left Barclays
+    Connections: 1 | Immunity: 6/10
+  • Leon Black Resignation
+    Role: Left Apollo Board
+    Connections: 2 | Immunity: 6/10
+  • Paragon Solutions
+    Role: Israeli Spyware / Barak
+    Connections: 3 | Immunity: 8/10
+  • Prince Andrew Settlement ($12M)
+    Role: Giuffre Settlement
+    Connections: 2 | Immunity: 7/10
+  • Senate Epstein-Thiel Confirmation
+    Role: $40M Investment Confirmed
+    Connections: 2 | Immunity: 6/10
+  • Trump DOJ 'No Client List'
+    Role: Cover-Up Continuation
+    Connections: 1 | Immunity: 8/10
+  • WestExec Advisors
+    Role: Paragon Client / Biden Cabinet
+    Connections: 3 | Immunity: 8/10
+
+================================================================================
+HIGH IMMUNITY NODES (Protection ≥ 7)
+================================================================================
+  [10/10] Office of Strategic Services (OSS)
+          Layer: firmware | Role: WWII Intelligence / CIA Precursor...
+  [10/10] Central Intelligence Agency (CIA)
+          Layer: firmware | Role: US Foreign Intelligence...
+  [10/10] Allen Dulles
+          Layer: firmware | Role: OSS Chief / CIA Director...
+  [10/10] William Barr
+          Layer: firmware | Role: CIA → DOJ → AG...
+  [10/10] Mossad
+          Layer: firmware | Role: Israeli Intelligence...
+  [10/10] Kirkland & Ellis
+          Layer: kernel | Role: Elite Law Firm / DOJ Pipeline...
+  [10/10] Department of Justice (DOJ)
+          Layer: os | Role: Federal Prosecution...
+  [9/10] Samuel Bronfman
+          Layer: hardware | Role: Seagram's Founder / Bootleg King...
+  [9/10] Robert Maxwell
+          Layer: firmware | Role: Media Mogul / Mossad Asset...
+  [9/10] Shimon Peres
+          Layer: firmware | Role: Israeli PM / Maxwell Eulogizer...
+  [9/10] Yitzhak Shamir
+          Layer: firmware | Role: Israeli PM / Maxwell Funeral...
+  [9/10] Jeffrey Epstein
+          Layer: bootloader | Role: Central Hub / Intelligence Asset...
+  [9/10] MEGA Group
+          Layer: bootloader | Role: Billionaire Coordination Network...
+  [9/10] Leslie Wexner
+          Layer: bootloader | Role: Victoria's Secret / Primary Funder...
+  [9/10] Bill Clinton
+          Layer: driver | Role: Former President / Flight Logs...
+  [9/10] Donald Trump
+          Layer: driver | Role: Business Associate / President...
+  [9/10] Ehud Barak
+          Layer: driver | Role: Israeli PM / Defense Min / Carbyne...
+  [9/10] Palantir Technologies
+          Layer: driver | Role: CIA/NSA/FBI Surveillance...
+  [9/10] Epstein Death (Aug 10, 2019)
+          Layer: os | Role: System Shutdown / Cameras Failed...
+  [9/10] Avril Haines
+          Layer: application | Role: WestExec / DNI...
+  [8/10] Meyer Lansky
+          Layer: hardware | Role: National Crime Syndicate Architect...
+  [8/10] Max Fisher
+          Layer: hardware | Role: Purple Gang → GOP → Wexner Mentor...
+  [8/10] Donald Barr
+          Layer: firmware | Role: OSS Officer / Dalton Headmaster...
+  [8/10] Edgar Bronfman Sr.
+          Layer: firmware | Role: Seagram's / WJC President...
+  [8/10] Charles Bronfman
+          Layer: firmware | Role: Seagram's / MEGA Co-Founder...
+  [8/10] Michael Steinhardt
+          Layer: bootloader | Role: Hedge Fund / MEGA / Birthright...
+  [8/10] Ronald Lauder
+          Layer: bootloader | Role: Estée Lauder / MEGA / WJC...
+  [8/10] Alan Dershowitz
+          Layer: kernel | Role: Defense Atty / Accused in Testimony...
+  [8/10] Deutsche Bank
+          Layer: kernel | Role: Banking / $75M+ Processed...
+  [8/10] JPMorgan Chase
+          Layer: kernel | Role: Banking / $365M Settlement...
+  [8/10] Prince Andrew
+          Layer: driver | Role: British Royal / $12M Settlement...
+  [8/10] Peter Thiel
+          Layer: driver | Role: Palantir / $40M from Epstein...
+  [8/10] Leon Black
+          Layer: driver | Role: Apollo / Paid Epstein $158M+...
+  [8/10] Apollo Global Management
+          Layer: driver | Role: Private Equity...
+  [8/10] Lawrence Summers
+          Layer: driver | Role: Harvard Pres / Treasury Sec...
+  [8/10] Non-Prosecution Agreement (2008)
+          Layer: os | Role: Sweetheart Deal...
+  [8/10] Southern District of New York
+          Layer: os | Role: 2019 Prosecution...
+  [8/10] WestExec Advisors
+          Layer: application | Role: Paragon Client / Biden Cabinet...
+  [8/10] Antony Blinken
+          Layer: application | Role: WestExec / Secretary of State...
+  [8/10] Paragon Solutions
+          Layer: application | Role: Israeli Spyware / Barak...
+  [8/10] Trump DOJ 'No Client List'
+          Layer: application | Role: Cover-Up Continuation...
+  [7/10] Charles 'Lucky' Luciano
+          Layer: hardware | Role: Italian Operations Chief...
+  [7/10] Seagram Company
+          Layer: hardware | Role: Liquor Empire...
+  [7/10] Ari Ben-Menashe
+          Layer: firmware | Role: Israeli Military Intelligence...
+  [7/10] Alan 'Ace' Greenberg
+          Layer: bootloader | Role: Bear Stearns CEO / Epstein Patron...
+  [7/10] Laurence Tisch
+          Layer: bootloader | Role: Loews / CBS / MEGA...
+  [7/10] Leonard Abramson
+          Layer: bootloader | Role: U.S. Healthcare / MEGA...
+  [7/10] Ghislaine Maxwell
+          Layer: bootloader | Role: Epstein Partner / Operations...
+  [7/10] Ken Starr
+          Layer: kernel | Role: Former Solicitor General / Defense...
+  [7/10] Jay Lefkowitz
+          Layer: kernel | Role: Kirkland Partner / NPA Signatory...
+  [7/10] Citibank
+          Layer: kernel | Role: Banking...
+  [7/10] Harvard University
+          Layer: driver | Role: Academic Cover / $6.5M+...
+  [7/10] Carbyne
+          Layer: driver | Role: Israeli 911 Tech / Barak+Epstein...
+  [7/10] Founders Fund
+          Layer: driver | Role: Thiel VC / Carbyne Investor...
+  [7/10] Jes Staley
+          Layer: driver | Role: JPMorgan / Barclays CEO...
+  [7/10] Glenn Dubin
+          Layer: driver | Role: Hedge Fund / Epstein Friend...
+  [7/10] Alexander Acosta
+          Layer: os | Role: US Attorney / 'Belonged to Intel'...
+  [7/10] Ghislaine Maxwell Trial (2021)
+          Layer: application | Role: Conviction / 20 Years...
+  [7/10] JPMorgan Settlement ($365M)
+          Layer: application | Role: Bank Settlement...
+  [7/10] Prince Andrew Settlement ($12M)
+          Layer: application | Role: Giuffre Settlement...
+  [7/10] Jean-Luc Brunel Death
+          Layer: application | Role: Died in Custody (Paris)...
+
+================================================================================
+BRIDGE NODES (Connect 3+ Layers)
+================================================================================
+  [6 layers] Ghislaine Maxwell
+          Layers: bootloader, firmware, driver, kernel, application, os
+          Total Connections: 10
+  [5 layers] Jeffrey Epstein
+          Layers: bootloader, firmware, driver, kernel, os
+          Total Connections: 52
+  [5 layers] Ehud Barak
+          Layers: bootloader, firmware, driver, kernel, application
+          Total Connections: 5
+  [4 layers] Leslie Wexner
+          Layers: kernel, os, hardware, bootloader
+          Total Connections: 6
+  [4 layers] Kirkland & Ellis
+          Layers: firmware, kernel, os, bootloader
+          Total Connections: 4
+  [4 layers] Prince Andrew
+          Layers: driver, os, bootloader, application
+          Total Connections: 5
+  [4 layers] Department of Justice (DOJ)
+          Layers: firmware, application, os, driver
+          Total Connections: 6
+  [4 layers] Virginia Giuffre
+          Layers: driver, kernel, bootloader, application
+          Total Connections: 5
+  [3 layers] Max Fisher
+          Layers: firmware, hardware, bootloader
+          Total Connections: 4
+  [3 layers] Central Intelligence Agency (CIA)
+          Layers: firmware, driver, application
+          Total Connections: 5
+  [3 layers] William Barr
+          Layers: firmware, kernel, os
+          Total Connections: 5
+  [3 layers] MEGA Group
+          Layers: firmware, hardware, bootloader
+          Total Connections: 8
+  [3 layers] Alan Dershowitz
+          Layers: driver, os, bootloader
+          Total Connections: 3
+  [3 layers] JPMorgan Chase
+          Layers: driver, bootloader, application
+          Total Connections: 3
+  [3 layers] Valar Ventures
+          Layers: driver, bootloader, application
+          Total Connections: 3
+
+================================================================================
+CRITICAL PATH ANALYSIS
+================================================================================
+
+LANSKY_TO_EPSTEIN:
+  Meyer Lansky → Samuel Bronfman → Purple Gang (Detroit) → Max Fisher → Leslie Wexner → Jeffrey Epstein
+  Length: 6 steps
+
+BRONFMAN_TO_MANSION:
+  Samuel Bronfman → Purple Gang (Detroit) → Max Fisher → Leslie Wexner → 9 East 71st Street (NYC Mansion)
+  Length: 5 steps
+
+BARR_LOOP:
+  Donald Barr → William Barr → Epstein Death (Aug 10, 2019)
+  Length: 3 steps
+
+MOSSAD_TO_NPA:
+  Mossad → Robert Maxwell → Jeffrey Epstein → Non-Prosecution Agreement (2008)
+  Length: 4 steps
+
+EPSTEIN_TO_PALANTIR:
+  Jeffrey Epstein → Valar Ventures → Peter Thiel → Palantir Technologies
+  Length: 4 steps
+
+BOOTLEG_TO_BARAK:
+  Samuel Bronfman → Purple Gang (Detroit) → Max Fisher → Leslie Wexner → Jeffrey Epstein → Ehud Barak
+  Length: 6 steps
+
+================================================================================
+ALL CONNECTIONS ENUMERATED
+================================================================================
+  Meyer Lansky → Samuel Bronfman [bootlegging_partnership]
+  Meyer Lansky → Benjamin 'Bugsy' Siegel [bugs_meyer_gang]
+  Meyer Lansky → Charles 'Lucky' Luciano [national_syndicate]
+  Meyer Lansky → Arnold Rothstein [mentorship]
+  Meyer Lansky → Murder Inc. [enforcement_control]
+  Meyer Lansky → Sol 'Red McGee' Steinhardt [jewel_fencing]
+  Meyer Lansky → Moe Dalitz [cleveland_syndicate]
+  Samuel Bronfman → Seagram Company [founder]
+  Samuel Bronfman → Purple Gang (Detroit) [distribution]
+  Samuel Bronfman → Al Capone [chicago_supply]
+  Samuel Bronfman → John Torrio [chicago_operations]
+  Samuel Bronfman → Arnold Rothstein [ny_distribution]
+  Samuel Bronfman → Abner 'Longy' Zwillman [nj_distribution]
+  Purple Gang (Detroit) → Max Fisher [associate]
+  Charles 'Lucky' Luciano → John Torrio [syndicate_organization]
+  Office of Strategic Services (OSS) → Central Intelligence Agency (CIA) [successor]
+  Office of Strategic Services (OSS) → Donald Barr [officer]
+  Office of Strategic Services (OSS) → Allen Dulles [leadership]
+  Allen Dulles → Central Intelligence Agency (CIA) [director]
+  Donald Barr → Dalton School [headmaster_1964-1974]
+  Donald Barr → Columbia University [faculty]
+  Donald Barr → William Barr [father_son]
+  Central Intelligence Agency (CIA) → William Barr [analyst_1971-1977]
+  Mossad → Robert Maxwell [asset]
+  Robert Maxwell → Ari Ben-Menashe [handler]
+  Robert Maxwell → Shimon Peres [political_connection]
+  Robert Maxwell → Yitzhak Shamir [funeral_attendee]
+  Samuel Bronfman → Edgar Bronfman Sr. [father_son]
+  Samuel Bronfman → Charles Bronfman [father_son]
+  Seagram Company → Edgar Bronfman Sr. [ceo]
+  Seagram Company → Charles Bronfman [executive]
+  Max Fisher → Charles Bronfman [philanthropy_circles]
+  Donald Barr → Jeffrey Epstein [hired_at_dalton_1974]
+  Dalton School → Jeffrey Epstein [teacher_1974-1976]
+  Alan 'Ace' Greenberg → Jeffrey Epstein [hired_1976]
+  Bear Stearns → Jeffrey Epstein [employee_1976-1981]
+  Lynne Greenberg → Jeffrey Epstein [romantic]
+  Alan 'Ace' Greenberg → Lynne Greenberg [father_daughter]
+  Jimmy Cayne → Jeffrey Epstein [colleague]
+  Alan 'Ace' Greenberg → Bear Stearns [ceo]
+  Jimmy Cayne → Bear Stearns [ceo_later]
+  Elliot Wolk → Robert Maxwell [account_manager]
+  Bear Stearns → Robert Maxwell [banking]
+  Robert Maxwell → Jeffrey Epstein [introduction_1985]
+  Robert Maxwell → Ghislaine Maxwell [father_daughter]
+  Ghislaine Maxwell → Jeffrey Epstein [partner_1991]
+  Elisabeth Maxwell → Jeffrey Epstein [financial_assistance]
+  Leslie Wexner → Jeffrey Epstein [money_manager_1987]
+  Leslie Wexner → MEGA Group [co_founder]
+  Charles Bronfman → MEGA Group [co_founder]
+  Edgar Bronfman Sr. → MEGA Group [member]
+  Michael Steinhardt → MEGA Group [member]
+  Ronald Lauder → MEGA Group [member]
+  Laurence Tisch → MEGA Group [member]
+  Leonard Abramson → MEGA Group [member]
+  Max Fisher → MEGA Group [member]
+  Max Fisher → Leslie Wexner [mentor]
+  Sol 'Red McGee' Steinhardt → Michael Steinhardt [father_son]
+  Leslie Wexner → Wexner Foundation [founder]
+  Wexner Foundation → Jeffrey Epstein [board_member]
+  Leslie Wexner → 9 East 71st Street (NYC Mansion) [gift_1993]
+  Jeffrey Epstein → 9 East 71st Street (NYC Mansion) [residence]
+  Jeffrey Epstein → Kirkland & Ellis [client]
+  Kirkland & Ellis → Jay Lefkowitz [partner]
+  Jeffrey Epstein → Alan Dershowitz [client]
+  Jeffrey Epstein → Ken Starr [client]
+  Jeffrey Epstein → Roy Black [client]
+  Jeffrey Epstein → Gerald Lefcourt [client]
+  Jeffrey Epstein → Martin Weinberg [client]
+  Jeffrey Epstein → Deutsche Bank [client_2013]
+  Jeffrey Epstein → JPMorgan Chase [client]
+  Jeffrey Epstein → Citibank [client]
+  Ghislaine Maxwell → Sarah Kellen [operational]
+  Ghislaine Maxwell → Lesley Groff [operational]
+  Ghislaine Maxwell → Nadia Marcinkova [operational]
+  Ghislaine Maxwell → Adriana Ross [operational]
+  Jeffrey Epstein → Jean-Luc Brunel [modeling_partnership]
+  William Barr → Kirkland & Ellis [partner_2009-2019]
+  Alan Dershowitz → Harvard University [professor]
+  Jeffrey Epstein → Palm Beach Mansion [owner]
+  Jeffrey Epstein → Zorro Ranch (New Mexico) [owner]
+  Jeffrey Epstein → Little St. James Island [owner]
+  Jeffrey Epstein → Great St. James Island [owner]
+  Jeffrey Epstein → Paris Apartment [owner]
+  Jeffrey Epstein → Lolita Express (Boeing 727) [owner]
+  Jeffrey Epstein → Harvard University [donor]
+  Jeffrey Epstein → MIT Media Lab [donor]
+  Joi Ito → MIT Media Lab [director]
+  Jeffrey Epstein → Joi Ito [funder]
+  Jeffrey Epstein → Bill Clinton [flight_logs]
+  Bill Clinton → Lolita Express (Boeing 727) [passenger_26+]
+  Jeffrey Epstein → Donald Trump [social_connection]
+  Donald Trump → Palm Beach Mansion [neighbor]
+  Jeffrey Epstein → Prince Andrew [social_connection]
+  Ghislaine Maxwell → Prince Andrew [introduction]
+  Prince Andrew → Little St. James Island [visitor]
+  Jeffrey Epstein → Ehud Barak [business_partner]
+  Ehud Barak → Carbyne [founder]
+  Jeffrey Epstein → Carbyne [investor]
+  Jeffrey Epstein → Valar Ventures [investor_40M]
+  Peter Thiel → Valar Ventures [founder]
+  Peter Thiel → Founders Fund [founder]
+  Founders Fund → Carbyne [investor]
+  Peter Thiel → Palantir Technologies [co_founder]
+  Ehud Barak → 9 East 71st Street (NYC Mansion) [visitor_photographed]
+  Jeffrey Epstein → Leon Black [advisor]
+  Leon Black → Apollo Global Management [founder]
+  Jeffrey Epstein → Jes Staley [friend]
+  Jes Staley → JPMorgan Chase [executive]
+  Jeffrey Epstein → Glenn Dubin [friend]
+  Eva Dubin → Jeffrey Epstein [former_girlfriend]
+  Eva Dubin → Glenn Dubin [spouse]
+  Jeffrey Epstein → Marvin Minsky [hosted]
+  Marvin Minsky → Little St. James Island [visitor]
+  Jeffrey Epstein → George Church [funded]
+  Jeffrey Epstein → Steven Pinker [associate]
+  Jeffrey Epstein → Lawrence Summers [associate]
+  Lawrence Summers → Harvard University [president]
+  Ehud Barak → Shimon Peres [political_successor]
+  Central Intelligence Agency (CIA) → Palantir Technologies [in-q-tel_founding]
+  Palm Beach Police Investigation → FBI Investigation (2006) [referral]
+  FBI Investigation (2006) → Alexander Acosta [prosecution_decision]
+  Alexander Acosta → Non-Prosecution Agreement (2008) [authorized]
+  Kirkland & Ellis → Non-Prosecution Agreement (2008) [negotiated]
+  Jay Lefkowitz → Non-Prosecution Agreement (2008) [signatory]
+  Jeffrey Epstein → Non-Prosecution Agreement (2008) [beneficiary]
+  William Barr → Department of Justice (DOJ) [ag_2019]
+  Department of Justice (DOJ) → Southern District of New York [oversight]
+  Southern District of New York → Jeffrey Epstein [2019_indictment]
+  Jeffrey Epstein → Metropolitan Correctional Center [detained]
+  Metropolitan Correctional Center → Epstein Death (Aug 10, 2019) [location]
+  William Barr → Epstein Death (Aug 10, 2019) [oversight]
+  Virginia Giuffre → Jeffrey Epstein [victim]
+  Virginia Giuffre → Ghislaine Maxwell [victim]
+  Virginia Giuffre → Prince Andrew [accuser]
+  Virginia Giuffre → Alan Dershowitz [accuser]
+  Courtney Wild → Jeffrey Epstein [victim]
+  Courtney Wild → Non-Prosecution Agreement (2008) [cvra_plaintiff]
+  Maria Farmer → Jeffrey Epstein [victim_1996]
+  Maria Farmer → Ghislaine Maxwell [victim]
+  Maria Farmer → Leslie Wexner [reported_to_1996]
+  Annie Farmer → Jeffrey Epstein [victim]
+  Julie Brown → Miami Herald Investigation [reporter]
+  Miami Herald Investigation → Southern District of New York [prompted]
+  Ghislaine Maxwell → Ghislaine Maxwell Trial (2021) [defendant]
+  JPMorgan Chase → JPMorgan Settlement ($365M) [defendant]
+  Deutsche Bank → Deutsche Bank Settlement ($75M) [defendant]
+  Prince Andrew → Prince Andrew Settlement ($12M) [defendant]
+  Virginia Giuffre → Prince Andrew Settlement ($12M) [plaintiff]
+  Ehud Barak → Paragon Solutions [founder]
+  Paragon Solutions → WestExec Advisors [client]
+  WestExec Advisors → Antony Blinken [co_founder]
+  WestExec Advisors → Avril Haines [principal]
+  Antony Blinken → Department of Justice (DOJ) [cabinet_colleague]
+  Avril Haines → Central Intelligence Agency (CIA) [oversight]
+  Peter Thiel → Senate Epstein-Thiel Confirmation [subject]
+  Valar Ventures → Senate Epstein-Thiel Confirmation [subject]
+  Department of Justice (DOJ) → Trump DOJ 'No Client List' [issuer]
+  Jean-Luc Brunel → Jean-Luc Brunel Death [subject]
+  Leon Black → Leon Black Resignation [subject]
+  Apollo Global Management → Leon Black Resignation [company]
+  Jes Staley → Jes Staley Resignation [subject]
+  Paragon Solutions → Department of Justice (DOJ) [contracts]
+  Palantir Technologies → Department of Justice (DOJ) [contracts]

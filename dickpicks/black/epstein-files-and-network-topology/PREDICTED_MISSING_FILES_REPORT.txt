@@ -1,0 +1,844 @@
+====================================================================================================
+FILE-BY-FILE GAP PREDICTION REPORT
+Based on Network Topology (113 Nodes / 164 Edges)
+====================================================================================================
+
+================================================================================
+GAP STATISTICS
+================================================================================
+
+Total Expected Documents (based on edges): 107
+Released/Partial: 17 (15.9%)
+Sealed/Privileged: 22 (20.6%)
+Classified: 11 (10.3%)
+Unknown/Unreleased: 57 (53.3%)
+
+EFFECTIVE RELEASE RATE: 15.9%
+
+
+================================================================================
+HIGH-SIGNIFICANCE GAPS (90%+ probability exists)
+================================================================================
+
+  [100%] MEGA Group Formation Documents
+      Edge: bronfman_mega
+      Status: NEVER_SOUGHT
+      Relevance: Coordinating body for billionaire network
+
+  [100%] Complete MEGA Group Membership List
+      Edge: bronfman_mega
+      Status: NEVER_RELEASED
+      Relevance: Coordinating body for billionaire network
+
+  [100%] Donald Barr Personnel File
+      Edge: barr_dalton
+      Status: UNRELEASED
+      Relevance: Initial recruitment by OSS officer
+
+  [100%] Epstein Bear Stearns Personnel File
+      Edge: epstein_bear_stearns
+      Status: UNRELEASED
+      Relevance: Early career, unexplained departure
+
+  [100%] Termination/Resignation Documentation
+      Edge: epstein_bear_stearns
+      Status: UNRELEASED
+      Relevance: Early career, unexplained departure
+
+  [100%] Financial Management Agreement
+      Edge: epstein_wexner
+      Status: UNRELEASED
+      Relevance: PRIMARY FUNDING RELATIONSHIP - virtually undocumented
+
+  [100%] Epstein-Wexner Correspondence 1987-2007
+      Edge: epstein_wexner
+      Status: UNRELEASED
+      Relevance: PRIMARY FUNDING RELATIONSHIP - virtually undocumented
+
+  [100%] Investment Performance Reports
+      Edge: epstein_wexner
+      Status: UNRELEASED
+      Relevance: PRIMARY FUNDING RELATIONSHIP - virtually undocumented
+
+  [100%] FBI Cooperation Request Response
+      Edge: epstein_prince_andrew
+      Status: UNRELEASED
+      Relevance: $12M settlement, refused FBI cooperation
+
+  [100%] $40M Wire Transfer Records
+      Edge: epstein_thiel
+      Status: UNRELEASED
+      Relevance: $40M to Palantir founder confirmed 2025
+
+  [100%] Camera Footage (Both Angles)
+      Edge: mcc_death
+      Status: CLAIMED_DESTROYED
+      Relevance: Cameras 'malfunctioned', guards 'asleep'
+
+  [100%] Cell Physical Evidence Report
+      Edge: mcc_death
+      Status: UNRELEASED
+      Relevance: Cameras 'malfunctioned', guards 'asleep'
+
+  [100%] AG Epstein Case Briefings
+      Edge: barr_oversight
+      Status: UNRELEASED
+      Relevance: Father hired Epstein, no recusal
+
+  [100%] AG Internal Communications on Case
+      Edge: barr_oversight
+      Status: UNRELEASED
+      Relevance: Father hired Epstein, no recusal
+
+  [95%] Lansky-Bronfman Organized Crime File
+      Edge: lansky_bronfman
+      Status: CLASSIFIED/DESTROYED
+      Relevance: Establishes funding lineage
+
+  [95%] MEGA Group Meeting Minutes 1991-present
+      Edge: bronfman_mega
+      Status: NEVER_SOUGHT
+      Relevance: Coordinating body for billionaire network
+
+  [95%] Epstein Hiring Documentation
+      Edge: barr_dalton
+      Status: UNRELEASED
+      Relevance: Initial recruitment by OSS officer
+
+  [95%] Epstein Trading Activity 1976-1981
+      Edge: epstein_bear_stearns
+      Status: UNRELEASED
+      Relevance: Early career, unexplained departure
+
+  [95%] Limited Partner Agreement
+      Edge: epstein_bear_stearns
+      Status: UNRELEASED
+      Relevance: Early career, unexplained departure
+
+  [95%] 2007 Relationship Termination Documents
+      Edge: epstein_wexner
+      Status: UNRELEASED
+      Relevance: PRIMARY FUNDING RELATIONSHIP - virtually undocumented
+
+  [95%] FBI 302 - Leslie Wexner Interview
+      Edge: epstein_wexner
+      Status: UNRELEASED
+      Relevance: PRIMARY FUNDING RELATIONSHIP - virtually undocumented
+
+  [95%] 30+ Meeting Documentation
+      Edge: epstein_barak
+      Status: UNRELEASED
+      Relevance: Former PM/Defense Min, Carbyne surveillance tech
+
+  [95%] Epstein-Barak Communications
+      Edge: epstein_barak
+      Status: UNRELEASED
+      Relevance: Former PM/Defense Min, Carbyne surveillance tech
+
+  [95%] Epstein-Black Communications
+      Edge: epstein_black
+      Status: UNRELEASED
+      Relevance: $158M payments, vague 'advice'
+
+  [95%] Acosta-DOJ HQ Communications
+      Edge: acosta_intel_statement
+      Status: UNRELEASED
+      Relevance: 'Belonged to intelligence' - no documentation
+
+  [95%] Evidence of Other Clients
+      Edge: maxwell_trial_sealed
+      Status: EXCLUDED_FROM_TRIAL
+      Relevance: Trial limited to 4 victims, client list excluded
+
+  [95%] NYC Mansion Recordings
+      Edge: surveillance_archive
+      Status: UNKNOWN
+      Relevance: Multiple witnesses describe cameras; nothing released
+
+  [95%] Palm Beach Recordings
+      Edge: surveillance_archive
+      Status: UNKNOWN
+      Relevance: Multiple witnesses describe cameras; nothing released
+
+  [95%] Island Recordings
+      Edge: surveillance_archive
+      Status: UNKNOWN
+      Relevance: Multiple witnesses describe cameras; nothing released
+
+  [90%] Epstein Teaching Evaluations
+      Edge: barr_dalton
+      Status: UNRELEASED
+      Relevance: Initial recruitment by OSS officer
+
+================================================================================
+COMPLETE PREDICTED FILE LIST
+================================================================================
+
+  1. [100%] MEGA Group Formation Documents
+      Type: formation_docs
+      Edge: Edgar Bronfman Sr ↔ MEGA Group
+      Period: 1991
+      Status: NEVER_SOUGHT
+
+  2. [100%] Complete MEGA Group Membership List
+      Type: member_list
+      Edge: Edgar Bronfman Sr ↔ MEGA Group
+      Period: 1991
+      Status: NEVER_RELEASED
+
+  3. [100%] Donald Barr Personnel File
+      Type: employment_record
+      Edge: Donald Barr ↔ Dalton School
+      Period: 1964-1974
+      Status: UNRELEASED
+
+  4. [100%] Donald Barr OSS Personnel File
+      Type: personnel_file
+      Edge: Donald Barr ↔ OSS
+      Period: 1942-1945
+      Status: CLASSIFIED
+
+  5. [100%] Robert Maxwell Mossad Asset File
+      Type: asset_file
+      Edge: Robert Maxwell ↔ Mossad
+      Period: 1960s-1991
+      Status: ISRAELI_CLASSIFIED
+
+  6. [100%] Maxwell Death Intelligence Assessment
+      Type: death_investigation
+      Edge: Robert Maxwell ↔ Mossad
+      Period: 1960s-1991
+      Status: CLASSIFIED
+
+  7. [100%] Epstein Bear Stearns Personnel File
+      Type: employment_record
+      Edge: Jeffrey Epstein ↔ Bear Stearns
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  8. [100%] Termination/Resignation Documentation
+      Type: termination
+      Edge: Jeffrey Epstein ↔ Bear Stearns
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  9. [100%] Financial Management Agreement
+      Type: management_agreement
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  10. [100%] Power of Attorney (Full Text)
+      Type: power_of_attorney
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: PARTIAL
+
+  11. [100%] Epstein-Wexner Correspondence 1987-2007
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  12. [100%] Investment Performance Reports
+      Type: financial_reports
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  13. [100%] Original Wexner Purchase Documents
+      Type: purchase
+      Edge: Leslie Wexner ↔ 9 East 71st Street
+      Period: 1989-1996
+      Status: PUBLIC
+
+  14. [100%] Transfer to Epstein Documentation
+      Type: transfer
+      Edge: Leslie Wexner ↔ 9 East 71st Street
+      Period: 1989-1996
+      Status: PARTIAL
+
+  15. [100%] Know Your Customer Due Diligence File
+      Type: kyc_file
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SEALED
+
+  16. [100%] Account Opening Documents
+      Type: account_opening
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SEALED
+
+  17. [100%] Internal Approval for Convicted Client
+      Type: approval_memo
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SEALED
+
+  18. [100%] Complete Transaction History
+      Type: transactions
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SEALED
+
+  19. [100%] Suspicious Activity Reports
+      Type: sar_reports
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SEALED
+
+  20. [100%] Compliance Review Documents
+      Type: compliance_failures
+      Edge: Jeffrey Epstein ↔ Deutsche Bank
+      Period: 2013-2019
+      Status: SETTLEMENT_ONLY
+
+  21. [100%] Complete Account History
+      Type: account_records
+      Edge: Jeffrey Epstein ↔ JPMorgan Chase
+      Period: 2000-2013
+      Status: SEALED
+
+  22. [100%] Complete Jes Staley Email Archive
+      Type: staley_emails
+      Edge: Jeffrey Epstein ↔ JPMorgan Chase
+      Period: 2000-2013
+      Status: PARTIAL
+
+  23. [100%] Compliance Red Flag Documentation
+      Type: compliance
+      Edge: Jeffrey Epstein ↔ JPMorgan Chase
+      Period: 2000-2013
+      Status: SEALED
+
+  24. [100%] Account Closure Decision Documents
+      Type: termination
+      Edge: Jeffrey Epstein ↔ JPMorgan Chase
+      Period: 2000-2013
+      Status: SEALED
+
+  25. [100%] Client Engagement Letters
+      Type: engagement
+      Edge: Jeffrey Epstein ↔ Kirkland & Ellis
+      Period: 2006-2019
+      Status: PRIVILEGED
+
+  26. [100%] Legal Billing Records
+      Type: billing
+      Edge: Jeffrey Epstein ↔ Kirkland & Ellis
+      Period: 2006-2019
+      Status: PRIVILEGED
+
+  27. [100%] NPA Negotiation Strategy Documents
+      Type: npa_negotiation
+      Edge: Jeffrey Epstein ↔ Kirkland & Ellis
+      Period: 2006-2019
+      Status: PRIVILEGED
+
+  28. [100%] Complete Clinton Flight Records
+      Type: flight_logs
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: PARTIAL
+
+  29. [100%] Secret Service Travel Records
+      Type: secret_service
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: CLASSIFIED
+
+  30. [100%] Complete Travel Records with Epstein
+      Type: travel
+      Edge: Jeffrey Epstein ↔ Prince Andrew
+      Period: 1999-2019
+      Status: PARTIAL
+
+  31. [100%] Royal Protection Unit Records
+      Type: royal_protection
+      Edge: Jeffrey Epstein ↔ Prince Andrew
+      Period: 1999-2019
+      Status: UK_CLASSIFIED
+
+  32. [100%] Full Settlement Agreement
+      Type: settlement
+      Edge: Jeffrey Epstein ↔ Prince Andrew
+      Period: 1999-2019
+      Status: SEALED
+
+  33. [100%] FBI Cooperation Request Response
+      Type: fbi_request
+      Edge: Jeffrey Epstein ↔ Prince Andrew
+      Period: 1999-2019
+      Status: UNRELEASED
+
+  34. [100%] Carbyne Investment Documents
+      Type: carbyne_investment
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: PARTIAL
+
+  35. [100%] Valar Ventures LP Documents
+      Type: valar_docs
+      Edge: Jeffrey Epstein ↔ Peter Thiel
+      Period: 2015
+      Status: PARTIAL
+
+  36. [100%] $40M Wire Transfer Records
+      Type: wire_transfer
+      Edge: Jeffrey Epstein ↔ Peter Thiel
+      Period: 2015
+      Status: UNRELEASED
+
+  37. [100%] Senate Confirmation Investigation
+      Type: senate_docs
+      Edge: Jeffrey Epstein ↔ Peter Thiel
+      Period: 2015
+      Status: PARTIAL
+
+  38. [100%] Complete $158M Payment Records
+      Type: payments
+      Edge: Jeffrey Epstein ↔ Leon Black
+      Period: 2012-2017
+      Status: PARTIAL
+
+  39. [100%] Description of 'Services' Provided
+      Type: services
+      Edge: Jeffrey Epstein ↔ Leon Black
+      Period: 2012-2017
+      Status: SEALED
+
+  40. [100%] Apollo Global Management Records
+      Type: apollo_docs
+      Edge: Jeffrey Epstein ↔ Leon Black
+      Period: 2012-2017
+      Status: PARTIAL
+
+  41. [100%] NPA Exhibit A - Witness List
+      Type: exhibit_a
+      Edge: Non-Prosecution Agreement ↔ Co-Conspirators
+      Period: 2008
+      Status: SEALED
+
+  42. [100%] NPA Exhibit B - Evidence Summary
+      Type: exhibit_b
+      Edge: Non-Prosecution Agreement ↔ Co-Conspirators
+      Period: 2008
+      Status: SEALED
+
+  43. [100%] Complete Co-Conspirator Names
+      Type: coconspirator_list
+      Edge: Non-Prosecution Agreement ↔ Co-Conspirators
+      Period: 2008
+      Status: SEALED
+
+  44. [100%] Camera Footage (Both Angles)
+      Type: surveillance
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: CLAIMED_DESTROYED
+
+  45. [100%] Complete Guard Activity Logs
+      Type: guard_logs
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: PARTIAL
+
+  46. [100%] Complete Visitor Records
+      Type: visitor_logs
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: PARTIAL
+
+  47. [100%] Complete Medical Records
+      Type: medical
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: PARTIAL
+
+  48. [100%] Full Autopsy with Photos
+      Type: autopsy
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: PARTIAL
+
+  49. [100%] Cell Physical Evidence Report
+      Type: cell_evidence
+      Edge: Jeffrey Epstein ↔ MCC Death
+      Period: 2019
+      Status: UNRELEASED
+
+  50. [100%] AG Epstein Case Briefings
+      Type: briefings
+      Edge: William Barr ↔ DOJ Oversight
+      Period: 2019
+      Status: UNRELEASED
+
+  51. [100%] AG Response to Death in Custody
+      Type: death_response
+      Edge: William Barr ↔ DOJ Oversight
+      Period: 2019
+      Status: PARTIAL
+
+  52. [100%] AG Internal Communications on Case
+      Type: communications
+      Edge: William Barr ↔ DOJ Oversight
+      Period: 2019
+      Status: UNRELEASED
+
+  53. [100%] Classified/Sealed Exhibits
+      Type: sealed_exhibits
+      Edge: Ghislaine Maxwell ↔ Trial Evidence
+      Period: 2021
+      Status: SEALED
+
+  54. [100%] Complete Victim Identification
+      Type: full_victim_list
+      Edge: Ghislaine Maxwell ↔ Trial Evidence
+      Period: 2021
+      Status: SEALED
+
+  55. [100%] NYC Safe Contents Inventory
+      Type: safe_contents
+      Edge: Properties ↔ Surveillance Systems
+      Period: 1990s-2019
+      Status: SEALED
+
+  56. [95%] Lansky-Bronfman Organized Crime File
+      Type: FBI_file
+      Edge: Meyer Lansky ↔ Samuel Bronfman
+      Period: 1920s-1930s
+      Status: CLASSIFIED/DESTROYED
+
+  57. [95%] MEGA Group Meeting Minutes 1991-present
+      Type: meeting_minutes
+      Edge: Edgar Bronfman Sr ↔ MEGA Group
+      Period: 1991
+      Status: NEVER_SOUGHT
+
+  58. [95%] Epstein Hiring Documentation
+      Type: hiring_records
+      Edge: Donald Barr ↔ Dalton School
+      Period: 1964-1974
+      Status: UNRELEASED
+
+  59. [95%] Maxwell Intelligence Operations
+      Type: operations
+      Edge: Robert Maxwell ↔ Mossad
+      Period: 1960s-1991
+      Status: CLASSIFIED
+
+  60. [95%] Epstein Trading Activity 1976-1981
+      Type: trading_records
+      Edge: Jeffrey Epstein ↔ Bear Stearns
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  61. [95%] Limited Partner Agreement
+      Type: partnership_docs
+      Edge: Jeffrey Epstein ↔ Bear Stearns
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  62. [95%] 2007 Relationship Termination Documents
+      Type: termination
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  63. [95%] FBI 302 - Leslie Wexner Interview
+      Type: wexner_fbi_interview
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  64. [95%] Communications with DOJ Alumni
+      Type: doj_communications
+      Edge: Jeffrey Epstein ↔ Kirkland & Ellis
+      Period: 2006-2019
+      Status: PRIVILEGED
+
+  65. [95%] 30+ Meeting Documentation
+      Type: meeting_records
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: UNRELEASED
+
+  66. [95%] Epstein-Barak Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: UNRELEASED
+
+  67. [95%] Epstein-Black Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Leon Black
+      Period: 2012-2017
+      Status: UNRELEASED
+
+  68. [95%] Acosta-DOJ HQ Communications
+      Type: correspondence
+      Edge: Alexander Acosta ↔ Intelligence Community
+      Period: 2007-2008
+      Status: UNRELEASED
+
+  69. [95%] NPA Negotiation Transcripts
+      Type: negotiation
+      Edge: Non-Prosecution Agreement ↔ Co-Conspirators
+      Period: 2008
+      Status: SEALED
+
+  70. [95%] Evidence of Other Clients
+      Type: client_evidence
+      Edge: Ghislaine Maxwell ↔ Trial Evidence
+      Period: 2021
+      Status: EXCLUDED_FROM_TRIAL
+
+  71. [95%] NYC Mansion Recordings
+      Type: recordings
+      Edge: Properties ↔ Surveillance Systems
+      Period: 1990s-2019
+      Status: UNKNOWN
+
+  72. [95%] Palm Beach Recordings
+      Type: recordings
+      Edge: Properties ↔ Surveillance Systems
+      Period: 1990s-2019
+      Status: UNKNOWN
+
+  73. [95%] Island Recordings
+      Type: recordings
+      Edge: Properties ↔ Surveillance Systems
+      Period: 1990s-2019
+      Status: UNKNOWN
+
+  74. [90%] Epstein Teaching Evaluations
+      Type: performance_reviews
+      Edge: Donald Barr ↔ Dalton School
+      Period: 1964-1974
+      Status: UNRELEASED
+
+  75. [90%] OSS Operations Involvement
+      Type: operations
+      Edge: Donald Barr ↔ OSS
+      Period: 1942-1945
+      Status: CLASSIFIED
+
+  76. [90%] SEC Investigation File (1981)
+      Type: sec_investigation
+      Edge: Jeffrey Epstein ↔ Bear Stearns
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  77. [90%] Epstein-Wexner Introduction Records
+      Type: introduction
+      Edge: Jeffrey Epstein ↔ Leslie Wexner
+      Period: 1987-2007
+      Status: UNRELEASED
+
+  78. [90%] Gift Tax Documentation
+      Type: tax_filings
+      Edge: Leslie Wexner ↔ 9 East 71st Street
+      Period: 1989-1996
+      Status: UNRELEASED
+
+  79. [90%] Clinton Foundation Scheduling Records
+      Type: scheduling
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: UNRELEASED
+
+  80. [90%] Mar-a-Lago Guest Records
+      Type: mar_a_lago
+      Edge: Jeffrey Epstein ↔ Donald Trump
+      Period: 1990s-2000s
+      Status: UNRELEASED
+
+  81. [90%] Epstein-Andrew Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Prince Andrew
+      Period: 1999-2019
+      Status: UNRELEASED
+
+  82. [90%] Israeli Intelligence Assessment
+      Type: israeli_intel
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: ISRAELI_CLASSIFIED
+
+  83. [90%] Barak-Thiel Introduction Records
+      Type: introduction
+      Edge: Jeffrey Epstein ↔ Peter Thiel
+      Period: 2015
+      Status: UNRELEASED
+
+  84. [90%] Acosta Intelligence Meeting Notes
+      Type: meeting_notes
+      Edge: Alexander Acosta ↔ Intelligence Community
+      Period: 2007-2008
+      Status: UNRELEASED
+
+  85. [90%] FBI-CIA Liaison Communications
+      Type: fbi_liaison
+      Edge: Alexander Acosta ↔ Intelligence Community
+      Period: 2007-2008
+      Status: CLASSIFIED
+
+  86. [90%] Intelligence-Related Evidence
+      Type: intel_exhibits
+      Edge: Ghislaine Maxwell ↔ Trial Evidence
+      Period: 2021
+      Status: CLASSIFIED
+
+  87. [90%] Surveillance Equipment Invoices
+      Type: equipment
+      Edge: Properties ↔ Surveillance Systems
+      Period: 1990s-2019
+      Status: UNRELEASED
+
+  88. [85%] Epstein Departure Documentation
+      Type: termination_record
+      Edge: Donald Barr ↔ Dalton School
+      Period: 1964-1974
+      Status: UNRELEASED
+
+  89. [85%] Ghislaine Maxwell Asset Transition Records
+      Type: succession
+      Edge: Robert Maxwell ↔ Mossad
+      Period: 1960s-1991
+      Status: CLASSIFIED
+
+  90. [85%] Greenberg-Epstein Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Ace Greenberg
+      Period: 1976-1981
+      Status: UNRELEASED
+
+  91. [85%] Epstein-Clinton Correspondence
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: UNRELEASED
+
+  92. [85%] Joint Event Records/Photos
+      Type: party_records
+      Edge: Jeffrey Epstein ↔ Donald Trump
+      Period: 1990s-2000s
+      Status: PARTIAL
+
+  93. [85%] Initial Introduction Records
+      Type: introduction
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: UNRELEASED
+
+  94. [85%] Epstein-Thiel Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Peter Thiel
+      Period: 2015
+      Status: UNRELEASED
+
+  95. [85%] Financial Relationship Records
+      Type: financial
+      Edge: Jeffrey Epstein ↔ Glenn Dubin
+      Period: 1990s-2019
+      Status: UNRELEASED
+
+  96. [85%] Epstein-Dubin Communications
+      Type: correspondence
+      Edge: Jeffrey Epstein ↔ Glenn Dubin
+      Period: 1990s-2019
+      Status: UNRELEASED
+
+  97. [85%] DOJ Internal Memo on Intel Designation
+      Type: memo
+      Edge: Alexander Acosta ↔ Intelligence Community
+      Period: 2007-2008
+      Status: UNRELEASED
+
+  98. [80%] Purple Gang Financial Investigation
+      Type: IRS_records
+      Edge: Meyer Lansky ↔ Samuel Bronfman
+      Period: 1920s-1930s
+      Status: UNKNOWN
+
+  99. [80%] Explanation of $0 Consideration
+      Type: consideration
+      Edge: Leslie Wexner ↔ 9 East 71st Street
+      Period: 1989-1996
+      Status: UNRELEASED
+
+  100. [80%] Eva Andersson-Dubin Relationship Docs
+      Type: eva_connection
+      Edge: Jeffrey Epstein ↔ Glenn Dubin
+      Period: 1990s-2019
+      Status: UNRELEASED
+
+  101. [75%] FBI 302 - Ehud Barak Interview
+      Type: fbi_interview
+      Edge: Jeffrey Epstein ↔ Ehud Barak
+      Period: 2013-2019
+      Status: UNKNOWN
+
+  102. [70%] FBI 302 - Ace Greenberg Interview
+      Type: fbi_interview
+      Edge: Jeffrey Epstein ↔ Ace Greenberg
+      Period: 1976-1981
+      Status: UNKNOWN
+
+  103. [70%] White House Visitor Logs (if any)
+      Type: white_house
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: UNKNOWN
+
+  104. [70%] Any Business Correspondence
+      Type: business
+      Edge: Jeffrey Epstein ↔ Donald Trump
+      Period: 1990s-2000s
+      Status: UNRELEASED
+
+  105. [65%] FBI 302 - Donald Trump Interview
+      Type: fbi_interview
+      Edge: Jeffrey Epstein ↔ Donald Trump
+      Period: 1990s-2000s
+      Status: UNKNOWN
+
+  106. [60%] FBI 302 - Bill Clinton Interview
+      Type: fbi_interview
+      Edge: Jeffrey Epstein ↔ Bill Clinton
+      Period: 1995-2006
+      Status: UNKNOWN
+
+  107. [50%] Conflict of Interest Analysis
+      Type: recusal_analysis
+      Edge: William Barr ↔ DOJ Oversight
+      Period: 2019
+      Status: LIKELY_NEVER_CREATED
+
+================================================================================
+CONCLUSIONS
+================================================================================
+
+Based on network topology analysis:
+
+1. 107 documents should exist based on network edges
+2. Only 17 (15.9%) have been released or partially released
+3. 22 are sealed or privileged
+4. 11 are classified by intelligence agencies
+5. 57 are unreleased with unknown status
+
+KEY PATTERNS IN MISSING DOCUMENTATION:
+
+• Intelligence connections: 100% classified or unreleased
+• Wexner relationship: >90% unreleased
+• High-profile associates: >80% unreleased
+• Financial details: >90% sealed or unreleased
+• Death circumstances: Key evidence "destroyed"
+
+The gap pattern CORRELATES with network immunity levels:
+- Highest immunity nodes have lowest documentation
+- Intelligence-adjacent edges have zero documentation
+- Financial edges to high-immunity nodes are sealed
+
+This is not random incompleteness - it is SYSTEMATIC PROTECTION.
